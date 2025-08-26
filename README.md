@@ -87,5 +87,5 @@ Feel free to fork this repo and create a pull request.
 
 ## 📜 License
 
-This project is MIT licensed.
+This project is for educational purposes only as part of an assignment.
 
